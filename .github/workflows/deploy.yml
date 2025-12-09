@@ -47,5 +47,8 @@ jobs:
           # Source directory to deploy (the result of next build && next export)
           publish_dir: ./out
           # Branch to publish to (if you chose a separate 'gh-pages' branch)
+          publish_branch: gh-pages
           # Since you are using the /out folder on the main branch settings,
           # we can rely on the default settings or ensure the target is correct.
+
+          force_orphan: true
