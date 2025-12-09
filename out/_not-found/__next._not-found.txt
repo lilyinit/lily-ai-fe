@@ -1,4 +1,0 @@
-1:"$Sreact.fragment"
-2:I[64307,["/lily-ai-fe/_next/static/chunks/f561ceb0b5ccd4c9.js"],"default"]
-3:I[88158,["/lily-ai-fe/_next/static/chunks/f561ceb0b5ccd4c9.js"],"default"]
-0:{"buildId":"L5thooXQGw-B9W9ufLWMb","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

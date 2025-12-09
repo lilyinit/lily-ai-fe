@@ -1,2 +1,0 @@
-:HL["/lily-ai-fe/_next/static/chunks/71c96f83e9befb41.css","style"]
-0:{"buildId":"L5thooXQGw-B9W9ufLWMb","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
