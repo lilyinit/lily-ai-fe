@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[64741,["/lily-ai-fe/_next/static/chunks/f561ceb0b5ccd4c9.js"],"ClientPageRoot"]
+3:I[28748,["/lily-ai-fe/_next/static/chunks/2b69ed34f02d96b2.js"],"default"]
+6:I[2772,["/lily-ai-fe/_next/static/chunks/f561ceb0b5ccd4c9.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"L5thooXQGw-B9W9ufLWMb","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/lily-ai-fe/_next/static/chunks/2b69ed34f02d96b2.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
